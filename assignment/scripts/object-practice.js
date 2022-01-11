@@ -54,7 +54,8 @@ console.log(newShoeCount);
   - Console.log your object
 */
 
-
+me.favoriteColor = 'Gray';
+console.log(me);
 
 
 
